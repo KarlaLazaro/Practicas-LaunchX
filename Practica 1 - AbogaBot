@@ -1,1 +1,22 @@
+TOMA DE REQUERIMIENTOS
+REQUERIMIENTO DE NEGOCIO
+  RN: Automatizar las demandas de los clientes a través de una página web.
+REQUERIMIENTOS FUNCIONALES
+  CLIENTE:
+  RU1: El cliente debe subir su demanda a la página web y darle seguimiento.
+  RS1.1: La página web debe mostrar un formulario.
+  RS1.2: La página web debe mostrar el proceso de pago para finalizar la transacción.
+  RS1.3: La página web debe permitir registrar nuevos usuarios.
+  RS1.4: La página web debe permitir darle seguimiento a las actualizaciones de los procesos legales de los clientes que se encuentran previamente registrados.
+  RS1.5: La página web envía notificaciones a los correos de los clientes para informar sobre el avance de su proceso.
+  ADMINISTRADOR
+  RU2: El administrador del sitio debe gestionar las demandas solicitadas.
+  RS2.1: La página web debe enviar las notificaciones de nuevas demandas.
+  RS2.2: La página web captura los datos del formulario y crea automáticamente un documento legal en formato Word.
+  RS2.3:  La página web debe mostrar en un dashboard los pagos recibidos.
+  RS2.4: La página web debe permitir actualizar el proceso de la demanda y agregar comentarios en cada paso del proceso.
+REQUERIMIENTOS NO FUNCIONALES
+  RNF: La página debe de ser responsive para poderla ver desde el celular.
+  RNF: La preferencia de colores del cliente es azul marino y blanco (acepta propuestas).
+
 
